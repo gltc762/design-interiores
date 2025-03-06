@@ -259,7 +259,6 @@ a{
     margin-right: 112px;
     padding-right: 112px;
     padding-left: 112px;
-    padding-bottom: 48px;
     justify-content: space-between;
     gap: 80px;
 }
@@ -313,4 +312,5 @@ a{
     border: 1px solid #D9D9D6;
     width: 1216px;
     justify-content: center;
+    margin-top: 80px;
 }
