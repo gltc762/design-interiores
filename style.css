@@ -163,3 +163,154 @@ a{
     display: flex;
 }
 
+.menu3{
+    display: flex;
+    margin-top: 128px;
+    margin-left: 112px;
+    margin-right: 112px;
+    gap: 32px;
+    justify-content: space-between;
+    position: relative;
+}
+
+.content2{
+    gap: 24px;
+    align-items: center;
+    margin-top: 66px;
+}
+
+.sobre{
+    border: 0;
+    border-top: 1px solid #996830;
+    margin: 1em 0;
+    width: 64px;
+}
+
+.nos{
+    color: #996830;
+    font-family: "Outfit";
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 10%;
+    line-height: 20px;
+    margin-left: 16px;
+}
+
+.titulo2{
+    font-family: "Playfair Display";
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: -2.5%;
+    text-align: left;
+    margin-top: 24px;
+    color: #2C2C2C;
+    align-items: center;
+}
+
+.sobre-nos{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.lorem{
+    font-family: "Outfit";
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: 0;
+    align-items: center;
+    margin-top: 24px;
+    width: 592px;
+    color: #444444;
+}
+
+.imagens{
+    margin-right: 8px;
+    display: flex;
+}
+
+.casa2{
+    margin-top: 80px;
+}
+
+.casa1{
+    margin-bottom: 80px;
+    margin-right: 16px;
+}
+
+.logo3{
+    position: absolute;
+    margin-top: -9px;
+    margin-left: 296px;
+}
+
+.logo4{
+    position: absolute;
+    margin-left: 248px;
+    margin-top: -56px;
+}
+
+.metrics{
+    display: flex;
+    margin-top: 128px;
+    margin-left: 112px;
+    margin-right: 112px;
+    padding-right: 112px;
+    padding-left: 112px;
+    padding-bottom: 48px;
+    justify-content: space-between;
+    gap: 80px;
+}
+
+.numeros{
+    font-family: "Playfair Display";
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: -2.5%;
+    align-items: center;
+    color: #2C2C2C;
+    height: 72px;
+}
+
+.textos{
+    font-family: "Outfit";
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 5%;
+    align-items: center;
+    margin-top: 20px;
+    width: 233px;
+    padding-top: 8px;
+    gap: 10px;
+    color: #2C2C2C;
+}
+
+.nt1{
+    display: flex;
+    gap: 16px;
+    width: 384px;
+}
+
+.nt2{
+    display: flex;
+    gap: 16px;
+    width: 384px;
+    margin-left: 32px;
+}
+
+.nt3{
+    display: flex;
+    gap: 16px;
+    width: 384px;
+    margin-left: 32px;
+}
+
+.metrics-line{
+    border: 1px solid #D9D9D6;
+    width: 1216px;
+    justify-content: center;
+}
