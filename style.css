@@ -378,3 +378,79 @@ a{
     color: #444444;
 }
 
+.tr{
+    width: 592px;
+    gap: 96px;
+    margin-left: 112px;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 112px;
+}
+
+.tr1{
+    display: flex;
+    align-items: center;
+}
+
+.cozinha{
+    margin-top: 96px;
+}
+
+.titulo4{
+    font-family: "Playfair Display";
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: 0%;
+    color: #2C2C2C;
+    margin-top: 24px;
+}
+
+.botao-contato2{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 16px 24px 16px 24px;
+    gap: 4px;
+    background-color: #996830;
+    text-align: center;
+    display: flex;
+    width: 115px;
+    height: 56px;
+    font-family: "Outfit";
+    justify-content: center;
+    border: 0px solid #996830;
+    margin-top: 96px;
+    margin-bottom: -24px;
+}
+
+.trdir{
+    width: 480px;
+    gap: 80px;
+    margin-top: 112px;
+    padding-right: 56px;
+    padding-left: 56px;
+}
+
+.trabalhos-recentes{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 112px;
+}
+
+.titulo5{
+    font-family: "Playfair Display";
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: 0%;
+    color: #2C2C2C;
+    margin-top: 16px;
+}
+
+.piscina{
+    margin-top: 80px;
+}
+
