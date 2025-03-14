@@ -308,9 +308,11 @@ a{
 
 .metrics-line{
     border: 1px solid #D9D9D6;
-    width: 1216px;
+    width: 100%px;
     justify-content: center;
     margin-top: 80px;
+    margin-left: 112px;
+    margin-right: 112px;
 }
 
 .servicos{
@@ -339,7 +341,7 @@ a{
     gap: 80px;
     margin-top: 80px;
     border: 1px solid #E6D8CC;
-    width: 384px;
+    width: 310px;
 }
 
 .servicos-item2{
@@ -347,7 +349,7 @@ a{
     gap: 80px;
     margin-top: 80px;
     border: 1px solid #E6D8CC;
-    width: 384px;
+    width: 310px;
 }
 
 .servicos-item3{
@@ -355,7 +357,7 @@ a{
     gap: 80px;
     margin-top: 80px;
     border: 1px solid #E6D8CC;
-    width: 384px;
+    width: 310px;
 }
 
 .titulo3{
@@ -459,6 +461,8 @@ a{
     width: 1216px;
     justify-content: center;
     margin-top: 8px;
+    margin-left: 112px;
+    margin-right: 112px;
 }
 
 .rodape{
@@ -540,16 +544,20 @@ a{
 
 .metrics-line3{
     border: 1px solid #D9D9D6;
-    width: 1216px;
+    width: 100%px;
     justify-content: center;
-    margin-top: 120px;
+    margin-top: 80px;
+    margin-left: 112px;
+    margin-right: 112px;
 }
 
 .metrics-line4{
     border: 1px solid #D9D9D6;
-    width: 1216px;
+    width: 100%px;
     justify-content: center;
     margin-top: 80px;
+    margin-left: 112px;
+    margin-right: 112px;
 }
 
 .rodape-final{
@@ -559,6 +567,7 @@ a{
     margin-left: 112px;
     margin-top: 80px;
     margin-bottom: 80px;
+    align-items: center;
 }
 
 .textos5{
@@ -580,4 +589,24 @@ a{
 
 .youtube{
     margin-right: 24px;
+}
+
+.instagram:hover{
+    transition: 0.8s;
+	transform: scale(1.4);
+}
+
+.facebook:hover{
+    transition: 0.8s;
+	transform: scale(1.4);
+}
+
+.youtube:hover{
+    transition: 0.8s;
+	transform: scale(1.4);
+}
+
+.twitter:hover{
+    transition: 0.8s;
+	transform: scale(1.4);
 }
