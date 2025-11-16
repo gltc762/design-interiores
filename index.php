@@ -1,131 +1,126 @@
 <?php
-include "includes/cabecalho.php";
+include "includes/header.php";
 ?>
 
 <div class="content">
-        <h1 class="titulo">Faça da sua casa uma ode à alegria</h1>
-        <h4 class="texto">Transformamos sua casa vazia em um lar encantador, tornando espaços compactos <br> com móveis
-            que
-            economizam espaço. Tornando os seus gostos únicos em realidade!</h4>
-    </div>
-    <div class="bg">
-        <img src="images/hero.png" alt="background" class="bg1">
-        <img src="images/cta.png" alt="cta" class="treco" height="120">
-    </div>
-    <div class="awards"></div>
-    <div id="sobre" class="menu3">
-        <div class="content2">
-            <div class="sobre-nos">
-                <hr class="sobre" />
-                <div class="nos">SOBRE NÓS</div>
-            </div>
-            <h1 class="titulo2">Ajudamos a tornar seu<br>sonho em realidade</h1>
-            <p class="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus fringilla dui amet
-                faucibus nam. Erat id laoreet posuere etiam morbi.</p>
-            <p class="lorem">Tempor dolor elementum tellus non ipsum faucibus. Justo, magna mauris posuere auctor justo.
-                Habitant proin aliquet volutpat leo ultricies. Dui blandit eget vitae turpis ultrices aliquet nunc.
-                Faucibus sit odio bibendum lobortis diam.</p>
-        </div>
-        <div class="imagens">
-            <img src="images/image.png" alt="casa1" class="casa1">
-            <img src="images/image2.png" alt="casa2" class="casa2">
-            <img src="images/frame.png" alt="design-studio" class="logo3">
-            <img src="images/linked.png" alt="design-studio" class="logo4" height="120">
-        </div>
-    </div>
-    <div class="metrics">
-        <div class="nt1">
-            <h1 class="numeros">100%</h1>
-            <h4 class="textos">SATISFACTION<br>CLIENTS</h4>
-        </div>
-        <div class="nt2">
-            <h1 class="numeros">250</h1>
-            <h4 class="textos">EMPLOYEES ON<br>WORLDWIDE</h4>
-        </div>
-        <div class="nt3">
-            <h1 class="numeros">3469</H1>
-            <h4 class="textos">PROJECTS COMPLETED<br>ON 60 COUNTRIES</h4>
-        </div>
-    </div>
-    <hr class="metrics-line" />
-    <div id="servicos" class="servicos">
-        <div class="servicos1">
+    <h1 class="titulo">Faça da sua casa uma ode à alegria</h1>
+    <h4 class="texto">Transformamos sua casa vazia em um lar encantador, tornando espaços compactos <br> com móveis
+        que
+        economizam espaço. Tornando os seus gostos únicos em realidade!</h4>
+</div>
+<div class="bg">
+    <img src="images/hero.png" alt="background" class="bg1">
+    <img src="images/cta.png" alt="cta" class="treco" height="120">
+</div>
+<div class="awards"></div>
+<div id="sobre" class="menu3">
+    <div class="content2">
+        <div class="sobre-nos">
             <hr class="sobre" />
-            <div class="nos">NOSSOS SERVIÇOS</div>
+            <div class="nos">SOBRE NÓS</div>
         </div>
-        <h1 class="titulo2">Oferecemos as melhores<br>soluções para a sua casa</h1>
-        <div class="servicos-item">
-            <div class="servicos-item1">
-                <img src="images/union.png" alt="apartamento" class="union1">
-                <h2 class="titulo3">Arquitetura e design<br>de interiores</h3>
-                    <h4 class="textos2">Non diam pretium tristique augue<br>placerat dolor. Accumsan nibh nunc,<br>
-                        molestie volutpat ipsum, ultricies.</h4>
-            </div>
-            <div class="servicos-item2">
-                <img src="images/union2.png" alt="edificacao" class="union2">
-                <h2 class="titulo3">Renovação de<br>Edifício</h2>
-                <h4 class="textos2">Non diam pretium tristique augue<br>placerat dolor. Accumsan nibh nunc,<br> molestie
-                    volutpat ipsum, ultricies.</h4>
-            </div>
-            <div class="servicos-item3">
-                <img src="images/union3.png" alt="seta" class="union3">
-                <h2 class="titulo3">Gerenciamento de<br>obras</h2>
-                <h4 class="textos2">Non diam pretium tristique augue<br>placerat dolor. Accumsan nibh nunc,<br> molestie
-                    volutpat ipsum, ultricies.</h4>
-            </div>
+        <h1 class="titulo2">Ajudamos a tornar seu<br>sonho em realidade</h1>
+        <p class="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus fringilla dui amet
+            faucibus nam. Erat id laoreet posuere etiam morbi.</p>
+        <p class="lorem">Tempor dolor elementum tellus non ipsum faucibus. Justo, magna mauris posuere auctor justo.
+            Habitant proin aliquet volutpat leo ultricies. Dui blandit eget vitae turpis ultrices aliquet nunc.
+            Faucibus sit odio bibendum lobortis diam.</p>
+    </div>
+    <div class="imagens">
+        <img src="images/image.png" alt="casa1" class="casa1">
+        <img src="images/image2.png" alt="casa2" class="casa2">
+        <img src="images/frame.png" alt="design-studio" class="logo3">
+        <img src="images/linked.png" alt="design-studio" class="logo4" height="120">
+    </div>
+</div>
+<div class="metrics">
+    <div class="nt1">
+        <h1 class="numeros">100%</h1>
+        <h4 class="textos">SATISFACTION<br>CLIENTS</h4>
+    </div>
+    <div class="nt2">
+        <h1 class="numeros">250</h1>
+        <h4 class="textos">EMPLOYEES ON<br>WORLDWIDE</h4>
+    </div>
+    <div class="nt3">
+        <h1 class="numeros">3469</H1>
+        <h4 class="textos">PROJECTS COMPLETED<br>ON 60 COUNTRIES</h4>
+    </div>
+</div>
+<hr class="metrics-line" />
+<div id="servicos" class="servicos">
+    <div class="servicos1">
+        <hr class="sobre" />
+        <div class="nos">NOSSOS SERVIÇOS</div>
+    </div>
+    <h1 class="titulo2">Oferecemos as melhores<br>soluções para a sua casa</h1>
+    <div class="servicos-item">
+        <div class="servicos-item1">
+            <img src="images/union.png" alt="apartamento" class="union1">
+            <h2 class="titulo3">Arquitetura e design<br>de interiores</h3>
+                <h4 class="textos2">Non diam pretium tristique augue<br>placerat dolor. Accumsan nibh nunc,<br>
+                    molestie volutpat ipsum, ultricies.</h4>
+        </div>
+        <div class="servicos-item2">
+            <img src="images/union2.png" alt="edificacao" class="union2">
+            <h2 class="titulo3">Renovação de<br>Edifício</h2>
+            <h4 class="textos2">Non diam pretium tristique augue<br>placerat dolor. Accumsan nibh nunc,<br> molestie
+                volutpat ipsum, ultricies.</h4>
+        </div>
+        <div class="servicos-item3">
+            <img src="images/union3.png" alt="seta" class="union3">
+            <h2 class="titulo3">Gerenciamento de<br>obras</h2>
+            <h4 class="textos2">Non diam pretium tristique augue<br>placerat dolor. Accumsan nibh nunc,<br> molestie
+                volutpat ipsum, ultricies.</h4>
         </div>
     </div>
-    <div id="nosso-trabalho" class="trabalhos-recentes">
-        <div class="tr">
-            <div class="tr1">
-                <hr class="sobre" />
-                <div class="nos">TRABALHOS RECENTES</div>
-            </div>
-            <h1 class="titulo2">Alguns de nossos<br>trabalhos feitos com<br>amor</h1>
-            <img src="images/trabalhosrecentes.png" alt="cozinha" class="cozinha">
-            <h2 class="titulo4">Mobiliário e Interior da Villa</h2>
-            <h4 class="textos2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus fringilla<br>dui amet
-                faucibus nam. Erat id laoreet posuere etiam morbi.</h4>
-            <a href="#" class="link-menu">
-                <button class="botao-contato2">CONTATO</button>
-            </a>
+</div>
+<div id="nosso-trabalho" class="trabalhos-recentes">
+    <div class="tr">
+        <div class="tr1">
+            <hr class="sobre" />
+            <div class="nos">TRABALHOS RECENTES</div>
         </div>
-        <div class="trdir">
-            <img src="images/trabalhosrecentesdir.png" alt="sala" class="sala" height="360px">
-            <h1 class="titulo5">Renovação de hotel de luxo</h1>
-            <h4 class="textos2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Faucibus fringilla dui amet
-                faucibus nam.</h4>
-            <img src="images/trabalhosrecentesdir2.png" alt="piscina" class="piscina" height="360px">
-            <h1 class="titulo5">Piscina da Residência</h1>
-            <h4 class="textos2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Faucibus fringilla dui amet
-                faucibus nam.</h4>
-        </div>
+        <h1 class="titulo2">Alguns de nossos<br>trabalhos feitos com<br>amor</h1>
+        <img src="images/trabalhosrecentes.png" alt="cozinha" class="cozinha">
+        <h2 class="titulo4">Mobiliário e Interior da Villa</h2>
+        <h4 class="textos2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus fringilla<br>dui amet
+            faucibus nam. Erat id laoreet posuere etiam morbi.</h4>
+        <a href="#" class="link-menu">
+            <button class="botao-contato2">CONTATO</button>
+        </a>
     </div>
-    <hr class="metrics-line3" />
-    <div id="contato" class="rodape">
-        <div class="titulos-direita">
-            <h1 class="titulo6">Dê o pontapé inicial na<br>casa dos seus sonhos<br>conosco</h1>
-            <a href="#" class="titulo7">Envie um oi</a>
-        </div>
-        <div class="resto-direita">
-            <h1 class="titulo8">Americana, São Paulo</h1>
-            <h4 class="textos3">Avenida Paulista, 200 - Centro<br>Americana - 13465-000.</h4>
-            <h4 class="textos4">Email</h4>
-            <a href="#" class="titulo9">hello@inteo.design</a>
-            <h4 class="textos4">Se você estiver com pressa, ligue para nós</h4>
-            <a href="#" class="titulo9">+8(663)125-08-59</a>
-        </div>
+    <div class="trdir">
+        <img src="images/trabalhosrecentesdir.png" alt="sala" class="sala" height="360px">
+        <h1 class="titulo5">Renovação de hotel de luxo</h1>
+        <h4 class="textos2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Faucibus fringilla dui amet
+            faucibus nam.</h4>
+        <img src="images/trabalhosrecentesdir2.png" alt="piscina" class="piscina" height="360px">
+        <h1 class="titulo5">Piscina da Residência</h1>
+        <h4 class="textos2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Faucibus fringilla dui amet
+            faucibus nam.</h4>
     </div>
-    <hr class="metrics-line4" />
-    <nav class="rodape-final">
-        <h4 class="textos5">© 2022 Inteo</h4>
-        <div class="redes">
-            <a href="#"><img src="images/instagram.png" alt="instagram" class="instagram"></a>
-            <a href="#"><img src="images/facebook.png" alt="facebook" class="facebook"></a>
-            <a href="#"><img src="images/youtube.png" alt="youtube" class="youtube"></a>
-            <a href="#"><img src="images/twitter.png" alt="twitter" class="twitter"></a>
-        </div>
+</div>
+<hr class="metrics-line3" />
+<div id="contato" class="rodape">
+    <div class="titulos-direita">
+        <h1 class="titulo6">Dê o pontapé inicial na<br>casa dos seus sonhos<br>conosco</h1>
+        <a href="#" class="titulo7">Envie um oi</a>
     </div>
-</body>
+    <div class="resto-direita">
+        <h1 class="titulo8">Americana, São Paulo</h1>
+        <h4 class="textos3">Avenida Paulista, 200 - Centro<br>Americana - 13465-000.</h4>
+        <h4 class="textos4">Email</h4>
+        <a href="#" class="titulo9">hello@inteo.design</a>
+        <h4 class="textos4">Se você estiver com pressa, ligue para nós</h4>
+        <a href="#" class="titulo9">+8(663)125-08-59</a>
+    </div>
+</div>
+<hr class="metrics-line4" />
 
+<?php
+include "includes/footer.php";
+?>
+
+</body>
 </html>
